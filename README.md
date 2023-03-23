@@ -2,7 +2,7 @@
 
 --> you can use Semantic Similarity jupyter notebook for Data exploration.  
 
---> to get the data cleaned version you can use Semantic Similarity jupyter notebook.  
+--> to to get the cleaned version of the data you can use Semantic Similarity jupyter notebook.  
 
 --> to use the Semantic-Similarity-Scoring-System you must run :  
 
