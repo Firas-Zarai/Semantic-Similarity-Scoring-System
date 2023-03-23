@@ -1,6 +1,6 @@
 # Semantic-Similarity-Scoring-System  
 
---> you can use Semantic Similarity Notebook for Data exploration.  
+--> you can use Semantic Similarity jupyter notebook for Data exploration.  
 
 --> to get a cleaned vesrion of the data you can use Semantic Similarity Notebook.  
 
